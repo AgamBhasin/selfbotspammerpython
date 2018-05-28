@@ -13,4 +13,3 @@ async def on_message(message):
         while 1==1:
             await client.send_message(message.channel, "spam")
 
-client.run("MTg4OTkzMDQ2MzYzMzczNTY4.DGlrCA.0-Q_aish_Rqj67G5IVhyQOvFlTw",bot=False)
